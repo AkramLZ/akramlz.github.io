@@ -1,0 +1,6 @@
+com.akraml.satim
+com.akraml.satim.exceptions
+com.akraml.satim.http
+com.akraml.satim.reply
+com.akraml.satim.request
+com.akraml.satim.util
